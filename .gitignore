@@ -1,0 +1,4 @@
+plugin/*
+undodir
+node_modules
+old
